@@ -22,3 +22,12 @@
 [submodule "jonathan"]
 	path = jonathan
 	url = https://github.com/JonathanLorand/AgoraGarden
+[submodule "ArghZero"]
+	path = ArghZero
+	url = https://github.com/arghzero/agora-garden.git
+[submodule "tilda"]
+	path = tilda
+	url = https://github.com/tilda/agora
+[submodule "karlicoss"]
+	path = karlicoss
+	url = https://github.com/karlicoss/exobrain-md.git
