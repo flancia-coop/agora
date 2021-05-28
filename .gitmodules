@@ -1,3 +1,6 @@
 [submodule "vera"]
 	path = vera
 	url = git@gitlab.com:veracantcode/notes-pub.git
+[submodule "flancian"]
+	path = flancian
+	url = https://github.com/flancian/garden.git
