@@ -4,3 +4,21 @@
 [submodule "flancian"]
 	path = flancian
 	url = https://github.com/flancian/garden.git
+[submodule "bmann"]
+	path = bmann
+	url = https://github.com/bmann/bmcgarden.git
+[submodule "binnyva"]
+	path = binnyva
+	url = https://github.com/binnyva/DZG
+[submodule "law"]
+	path = law
+	url = https://github.com/zavislak/law.md.git
+[submodule "ankostis"]
+	path = ankostis
+	url = https://github.com/ankostis/Garden
+[submodule "s5bug"]
+	path = s5bug
+	url = https://gitdab.com/s/garden.git
+[submodule "jonathan"]
+	path = jonathan
+	url = https://github.com/JonathanLorand/AgoraGarden
